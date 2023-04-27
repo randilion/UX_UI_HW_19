@@ -1,12 +1,12 @@
 console.log("hello world");
 
-  function mouseOver() {
-    document.getElementById("demo").style.color = "#DD2FED";
-  }
+  // function mouseOver() {
+  //   document.getElementById("demo").style.color = "#DD2FED";
+  // }
 
-  function mouseOut() {
-    document.getElementById("demo").style.color = "#8B8B8B";
-  }
+  // function mouseOut() {
+  //   document.getElementById("demo").style.color = "#8B8B8B";
+  // }
   var tabs = $('.tabs');
   var selector = $('.tabs').find('a').length;
   //var selector = $(".tabs").find(".selector");
